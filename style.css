@@ -1,0 +1,128 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+    color:white;
+}
+
+body {
+    text-align: center;
+background-color: black;
+
+}
+
+
+img {
+    width: 350px;
+}
+story-opening{
+  color: white;
+}
+
+
+        
+        
+.buttons{
+    display: flex;
+    justify-content: center;
+  
+}
+
+.Scene1{
+   
+  display: none;
+}
+
+.Scene2{
+   
+  display: none;
+}
+
+.Scene3{
+   
+  display: none;
+}
+.Scene4{
+   
+  display: none;
+}
+
+.Scene5{
+   
+  display: none;
+}
+
+h3{
+  color:white;
+
+}
+
+.option1Screen{
+   
+  display: none;
+}
+
+.option1Screen2{
+   
+  display: none;
+}
+.option2{
+   
+  display: none;
+}
+
+.option1Screen3{
+  
+  display: none;
+}
+
+.option1Screen4{
+  
+  display: none;
+}
+
+.optionTWO2{
+    
+  display: none;
+}
+
+.option2Screen3{
+    
+  display: none;
+}
+
+
+.option1Screen5{
+    
+  display: none;
+}
+
+.option2Screen4{
+   
+  display: none;
+}
+
+.option-two3{
+  
+  display: none;
+}
+
+
+.happyCat{
+  display: none;
+}
+.Scene6{
+  display:none;
+}
+
+
+
+.start-button{
+width: 50px;
+}
+
+
